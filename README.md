@@ -4,8 +4,7 @@
 <h6>Team Member:</h6>
 
    + Ngô Thị Huyền -16520543
-   + Nguyễn Quang Nghĩa -16520810
-   + Nguyễn Duy Tân -16521075
+  
 
 <h5>Process: &nbsp 100%</h5> 
 <h5>Shop API: Private </br> React Native version: 0.57.1</h5>
